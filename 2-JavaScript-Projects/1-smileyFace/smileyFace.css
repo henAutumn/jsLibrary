@@ -1,0 +1,11 @@
+.wrapper {
+    margin:5px;
+}
+
+.face {
+    width:75px;
+    height:75px;
+    background-color: yellow;
+    border-radius: 50px;
+     border: 2px solid black;
+}
